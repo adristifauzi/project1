@@ -1,0 +1,7 @@
+usa=9834
+alaska=1718
+hawaii=28.311
+area=usa - alaska - hawaii
+water=244106
+result=water/area
+print(result)
